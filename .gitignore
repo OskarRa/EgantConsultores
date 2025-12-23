@@ -1,0 +1,9 @@
+# Archivos sensibles
+/app/models/Conexion.php
+
+# Ignorar imágenes subidas
+/public/images/
+
+# Ignorar archivos temporales
+*.log
+*.tmp
